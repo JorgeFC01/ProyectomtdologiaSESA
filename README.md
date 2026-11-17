@@ -10,7 +10,7 @@ Acerca del proyecto
 Proyecto Grupal 
 •
 Funciones
-Compra de Videojuegos 
+Compra de Videojuegos
 •
 Tecnologías
 JavaScrip, CSS y HTML
